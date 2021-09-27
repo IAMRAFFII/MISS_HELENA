@@ -21,9 +21,9 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*My creator is Muhammed Rafi*
 *Creator number : wa.me/919605741366?text=Heloo*
 *Bot setting video : https://youtu.be/_D4ZYuUSXjs*
-*Githublink (Setup)  :    ```Git Is Private Sorry```😐*
-*Audio commads :   ```Audio Command Okke Kitteett Entha``` 😂*
-*Sticker commads : ```Athokke Vannolum Edekkedekk``` 😉*
+*Githublink (Setup)  : git is private*
+*Audio commads :   Audio okke kitteett enthaa*
+*Sticker commads : Athokke Vannolum Edekkedekk*
 `}) 
 
 }));
